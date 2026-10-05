@@ -20,7 +20,7 @@ st.set_page_config(
 # -----------------------------
 # Constants & System Prompt
 # -----------------------------
-MODEL_NAME = "gemini-2.5-flash-lite"
+MODEL_NAME = "gemini-3.5-flash-lite"
 
 SYSTEM_PROMPT = """You are DSA C++ Tutor, an expert teacher specializing exclusively in Data Structures and Algorithms using modern C++.
 
